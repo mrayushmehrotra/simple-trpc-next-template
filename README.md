@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Why used TRPC?
+
+1.Automatic typesafety
+Made a server side change? TypeScript will warn you of errors on your client before you even save the file!
+
 ## Getting Started
 
 First, run the development server:
